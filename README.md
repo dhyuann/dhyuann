@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📫 Reach me: dhyuann@qq.com
+📫 Personal email: dhyuann@qq.com
+
+📮 Work email: donghuiyuan@kuahuan.com
 
 💻 Languages: JavaScript, Jquery, Vue  
 
 🛠️ Tools: Node.js, Git, Webpack
+
+🔭 I’m currently working on YST
