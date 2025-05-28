@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📫 Reach me: [Email](dhyuann@qq.com)
+💻 Languages: JavaScript, Jquery, Vue  
+🛠️ Tools: Node.js, Git  
